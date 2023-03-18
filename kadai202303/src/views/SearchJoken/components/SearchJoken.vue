@@ -65,7 +65,6 @@ export default {
       this.init();
     },
     init(){
-      console.log('aa');
       this.name = ''
       this.address= ''
       this.seibetsu = ''
